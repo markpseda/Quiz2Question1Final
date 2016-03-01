@@ -10,7 +10,7 @@ import org.junit.Test;
 
 import mainPackage.StudentLoan;
 
-public class StudentLoanJUnit {
+public class StudentLoanJUnittest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
